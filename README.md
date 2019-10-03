@@ -9,4 +9,6 @@ I am releasing this VGGVox Keras implementation under an MIT license so feel fre
 G. Assunção, F. Perdigão, and P. Menezes. "Premature overspecialization in emotion recognition systems". In Audio Engineering Society Conference: 2019 AES International Conference on Audio Forensics, Jun 2019.
 ```
 
+The paper is available at: ```  http://www.aes.org/e-lib/browse.cfm?elib=20471 ```
+
 NOTE: The weights H5 file was compressed as a .zip due to GitHub's limit on large files over 100MB. Just extract the file using your usual extractor.
