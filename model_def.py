@@ -1,3 +1,8 @@
+#---------------------------------------------
+# Implemented by Gustavo Assunção
+# Institute of Systems and Robotics, Coimbra
+# June 2019
+#---------------------------------------------
 
 from keras.models import Sequential
 from keras.layers import Conv2D, MaxPooling2D, AveragePooling2D, Dense, ZeroPadding2D, Activation

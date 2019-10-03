@@ -1,3 +1,9 @@
+#---------------------------------------------
+# Implemented by Gustavo Assunção
+# Institute of Systems and Robotics, Coimbra
+# June 2019
+#---------------------------------------------
+
 import numpy as np
 import math as mt
 

@@ -1,3 +1,9 @@
+#---------------------------------------------
+# Implemented by Gustavo Assunção
+# Institute of Systems and Robotics, Coimbra
+# June 2019
+#---------------------------------------------
+
 #Remove DC component and add dither (rm_dc_n_dither)
 import numpy as np
 from scipy.signal import lfilter

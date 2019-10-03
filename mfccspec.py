@@ -1,3 +1,9 @@
+#---------------------------------------------
+# Implemented by Gustavo Assunção
+# Institute of Systems and Robotics, Coimbra
+# June 2019
+#---------------------------------------------
+
 from rm_dc_n_dither import rm_dc_n_dither
 from vec2frames import vec2frames
 from scipy.signal import lfilter
